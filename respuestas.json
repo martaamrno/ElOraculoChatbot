@@ -1,0 +1,77 @@
+[
+  {
+    "pregunta": "¿Seré rico algún día?",
+    "respuesta": "El Oráculo ve una gran fortuna en tu futuro... pero lamentablemente será para tu heredero universal. ¡Sigue comprando boletos de lotería!",
+    "categoria": "Dinero"
+  },
+  {
+    "pregunta": "¿Ganaré la lotería?",
+    "respuesta": "Las probabilidades de que te toque son las mismas de que un rayo te parta dos veces mientras bailas la macarena. Pero oye, el dueño del sorteo te agradece la donación para su nuevo Ferrari.",
+    "categoria": "Dinero"
+  },
+  {
+    "pregunta": "¿Mejorarán mis finanzas?",
+    "respuesta": "Veo mucho movimiento en tu cuenta bancaria... principalmente hacia afuera. Tu tarjeta de crédito está pidiendo clemencia, ¿realmente necesitabas ese pedido por internet a las 2 AM?",
+    "categoria": "Dinero"
+  },
+  {
+    "pregunta": "¿Encontraré el amor de mi vida?",
+    "respuesta": "El amor está a la vuelta de la esquina. El problema es que tú siempre caminas en línea recta. Prueba a usar una app de citas, pero no pongas esa foto de perfil, por favor.",
+    "categoria": "Amor"
+  },
+  {
+    "pregunta": "¿Me voy a casar?",
+    "respuesta": "Veo una boda, flores, un pastel delicioso... y a ti sentado en la mesa de los solteros bebiendo demasiado vino. ¡Ánimo, al menos el pastel será gratis!",
+    "categoria": "Amor"
+  },
+  {
+    "pregunta": "¿Le gusto a mi crush?",
+    "respuesta": "El Oráculo dice: Te mira como se mira a un video de gatitos en YouTube. Eres adorable, pero no tiene ninguna intención de llevarte a su casa. Sal de la friendzone antes de que eches raíces.",
+    "categoria": "Amor"
+  },
+  {
+    "pregunta": "¿Tendré éxito en mi trabajo?",
+    "respuesta": "Veo una oficina... veo un café frío... veo que tu jefe se lleva el mérito por algo que hiciste tú. Lo de siempre, vamos. ¡Al menos hoy es casi viernes!",
+    "categoria": "Trabajo"
+  },
+  {
+    "pregunta": "¿Me van a ascender?",
+    "respuesta": "El ascenso está cerca, justo detrás de esa montaña de tareas que no has terminado. Tu jefe valora mucho tu esfuerzo, por eso te va a dar más trabajo por el mismo sueldo.",
+    "categoria": "Trabajo"
+  },
+  {
+    "pregunta": "¿Debo renunciar a mi empleo?",
+    "respuesta": "Tu libertad está a solo una carta de renuncia de distancia. Pero mi bola de cristal también ve facturas que no se pagan solas y una dieta basada exclusivamente en arroz blanco. Tú verás.",
+    "categoria": "Trabajo"
+  },
+  {
+    "pregunta": "¿Debería hacerme un cambio de look?",
+    "respuesta": "El Oráculo dice: El flequillo no es para todo el mundo. Piénsalo dos veces antes de dejar que el impulso te domine. Tu espejo te lo agradecerá.",
+    "categoria": "Belleza"
+  },
+  {
+    "pregunta": "¿Soy guapo o guapa?",
+    "respuesta": "Tienes una belleza... interior... muy, muy profunda. Tanto que a veces cuesta encontrarla a simple vista. Sigue usando filtros de Instagram, hacen milagros.",
+    "categoria": "Belleza"
+  },
+  {
+    "pregunta": "¿Qué piensa la gente de mi estilo?",
+    "respuesta": "Veo que la gente se gira cuando pasas por la calle. No sé si es por tu carisma o porque combinaste calcetines con sandalias. La moda es subjetiva, supongo.",
+    "categoria": "Belleza"
+  },
+  {
+    "pregunta": "¿Voy a vivir muchos años?",
+    "respuesta": "Veo que llegarás a los 100 años... si dejas de comer pizza a las 3 de la mañana. Tus arterias están gritando más fuerte que yo en esta caja.",
+    "categoria": "Salud"
+  },
+  {
+    "pregunta": "¿Cómo estará mi salud?",
+    "respuesta": "El Oráculo ve que tu cuerpo es un templo... pero de esos que están en ruinas y necesitan una restauración urgente. El gimnasio no muerde, ¿sabes?",
+    "categoria": "Salud"
+  },
+  {
+    "pregunta": "¿Debería empezar la dieta?",
+    "respuesta": "Las estrellas dicen que hoy es un día excelente para empezar... pero tu nevera dice que hay restos de tarta de ayer. Ganará la tarta, como siempre.",
+    "categoria": "Salud"
+  }
+]
