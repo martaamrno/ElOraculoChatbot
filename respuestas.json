@@ -1,77 +1,77 @@
 [
   {
     "pregunta": "¿Seré rico algún día?",
-    "respuesta": "El Oráculo ve una gran fortuna en tu futuro... pero lamentablemente será para tu heredero universal. ¡Sigue comprando boletos de lotería!",
+    "respuesta": "El Oráculo ve que el dinero llegará a tus manos, pero cuidado: así como entra, saldrá si no aprendes a retenerlo. La fortuna es una puerta que gira.",
     "categoria": "Dinero"
   },
   {
     "pregunta": "¿Ganaré la lotería?",
-    "respuesta": "Las probabilidades de que te toque son las mismas de que un rayo te parta dos veces mientras bailas la macarena. Pero oye, el dueño del sorteo te agradece la donación para su nuevo Ferrari.",
+    "respuesta": "Las estrellas no muestran un camino fácil hacia el azar. Tu verdadera ganancia vendrá de un esfuerzo que hoy te parece pequeño, pero que crecerá con el tiempo.",
     "categoria": "Dinero"
   },
   {
     "pregunta": "¿Mejorarán mis finanzas?",
-    "respuesta": "Veo mucho movimiento en tu cuenta bancaria... principalmente hacia afuera. Tu tarjeta de crédito está pidiendo clemencia, ¿realmente necesitabas ese pedido por internet a las 2 AM?",
+    "respuesta": "Habrá estabilidad, pero no lujo inmediato. Veo que tendrás que sacrificar un capricho presente para asegurar un bienestar futuro. La elección es tuya.",
     "categoria": "Dinero"
   },
   {
     "pregunta": "¿Encontraré el amor de mi vida?",
-    "respuesta": "El amor está a la vuelta de la esquina. El problema es que tú siempre caminas en línea recta. Prueba a usar una app de citas, pero no pongas esa foto de perfil, por favor.",
+    "respuesta": "Alguien llegará, pero no será como en las películas. El amor real tiene arrugas y días difíciles. Prepárate para aceptar a alguien con sus defectos, no solo con sus luces.",
     "categoria": "Amor"
   },
   {
     "pregunta": "¿Me voy a casar?",
-    "respuesta": "Veo una boda, flores, un pastel delicioso... y a ti sentado en la mesa de los solteros bebiendo demasiado vino. ¡Ánimo, al menos el pastel será gratis!",
+    "respuesta": "Veo un compromiso, pero las raíces deben ser fuertes. No te apresures por miedo a la soledad; el tiempo del Oráculo es distinto al reloj de los hombres.",
     "categoria": "Amor"
   },
   {
     "pregunta": "¿Le gusto a mi crush?",
-    "respuesta": "El Oráculo dice: Te mira como se mira a un video de gatitos en YouTube. Eres adorable, pero no tiene ninguna intención de llevarte a su casa. Sal de la friendzone antes de que eches raíces.",
+    "respuesta": "Hay una conexión, pero es frágil. Si esperas a que el destino lo haga todo, la llama se apagará. A veces el universo necesita que tú des el primer paso.",
     "categoria": "Amor"
   },
   {
     "pregunta": "¿Tendré éxito en mi trabajo?",
-    "respuesta": "Veo una oficina... veo un café frío... veo que tu jefe se lleva el mérito por algo que hiciste tú. Lo de siempre, vamos. ¡Al menos hoy es casi viernes!",
+    "respuesta": "El éxito vendrá, pero el precio será tu tiempo libre. Tendrás que decidir si la cima de la montaña vale la pena por la soledad que se siente al llegar.",
     "categoria": "Trabajo"
   },
   {
     "pregunta": "¿Me van a ascender?",
-    "respuesta": "El ascenso está cerca, justo detrás de esa montaña de tareas que no has terminado. Tu jefe valora mucho tu esfuerzo, por eso te va a dar más trabajo por el mismo sueldo.",
+    "respuesta": "Tu nombre está en las conversaciones de los superiores, pero hay competencia cerca. No bajes la guardia ahora; el reconocimiento está en juego.",
     "categoria": "Trabajo"
   },
   {
     "pregunta": "¿Debo renunciar a mi empleo?",
-    "respuesta": "Tu libertad está a solo una carta de renuncia de distancia. Pero mi bola de cristal también ve facturas que no se pagan solas y una dieta basada exclusivamente en arroz blanco. Tú verás.",
+    "respuesta": "El Oráculo ve un camino fuera de tu oficina, pero es un camino empedrado. Si te vas ahora, será difícil al principio. Asegúrate de tener provisiones antes de saltar.",
     "categoria": "Trabajo"
   },
   {
     "pregunta": "¿Debería hacerme un cambio de look?",
-    "respuesta": "El Oráculo dice: El flequillo no es para todo el mundo. Piénsalo dos veces antes de dejar que el impulso te domine. Tu espejo te lo agradecerá.",
+    "respuesta": "Un cambio puede renovarte, pero no cambiará quién eres por dentro. Prueba algo nuevo, pero no te escondas detrás de una máscara que no te pertenece.",
     "categoria": "Belleza"
   },
   {
     "pregunta": "¿Soy guapo o guapa?",
-    "respuesta": "Tienes una belleza... interior... muy, muy profunda. Tanto que a veces cuesta encontrarla a simple vista. Sigue usando filtros de Instagram, hacen milagros.",
+    "respuesta": "La belleza es un espejo que cambia con los años. El Oráculo ve que tu atractivo crece cuando dejas de compararte con los demás y aceptas tu propia rareza.",
     "categoria": "Belleza"
   },
   {
     "pregunta": "¿Qué piensa la gente de mi estilo?",
-    "respuesta": "Veo que la gente se gira cuando pasas por la calle. No sé si es por tu carisma o porque combinaste calcetines con sandalias. La moda es subjetiva, supongo.",
+    "respuesta": "Algunos admiran tu audacia, otros no lo entienden. No puedes gustar a todo el mundo sin volverte invisible. Elige ser tú mismo, aunque incomodes.",
     "categoria": "Belleza"
   },
   {
     "pregunta": "¿Voy a vivir muchos años?",
-    "respuesta": "Veo que llegarás a los 100 años... si dejas de comer pizza a las 3 de la mañana. Tus arterias están gritando más fuerte que yo en esta caja.",
+    "respuesta": "Tu hilo de la vida es largo, pero se ve desgastado en algunas partes. No cuentes los años, haz que los años cuenten. Tu cuerpo es tu único vehículo, trátalo con respeto.",
     "categoria": "Salud"
   },
   {
     "pregunta": "¿Cómo estará mi salud?",
-    "respuesta": "El Oráculo ve que tu cuerpo es un templo... pero de esos que están en ruinas y necesitan una restauración urgente. El gimnasio no muerde, ¿sabes?",
+    "respuesta": "El Oráculo ve nubarrones que se disipan si actúas pronto. No ignores las señales pequeñas de tu cuerpo; a veces el susurro se convierte en grito.",
     "categoria": "Salud"
   },
   {
     "pregunta": "¿Debería empezar la dieta?",
-    "respuesta": "Las estrellas dicen que hoy es un día excelente para empezar... pero tu nevera dice que hay restos de tarta de ayer. Ganará la tarta, como siempre.",
+    "respuesta": "La disciplina es amarga, pero su fruto es dulce. No busques milagros en una semana; el cambio real es lento, silencioso y requiere voluntad de hierro.",
     "categoria": "Salud"
   }
 ]
